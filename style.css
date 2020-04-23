@@ -1,0 +1,108 @@
+#navigation{
+list-style-type: none;
+margin: 0;
+padding: 0;
+}
+
+.el{
+	display: inline;
+}
+#navigation,.el{
+	/*float: center;*/
+	list-style: none;
+	background-color: Honeydew;
+	margin: 0;
+	padding: 0;
+	text-align: center;
+}
+
+.login{
+	background-color: LightGrey;
+	border: 1px solid;
+	padding: 10px 20px;
+	display: inline-block;
+	/*text-align: center;
+	margin: 0 auto;*/
+}
+
+.styleLogin{
+	text-decoration: none;
+}
+
+
+#connecInscript {
+	width: 500px;
+	/*height: 30px;*/
+	margin: 0 auto;
+	/*position:relative;*/
+	/*text-align: center;*/
+}
+
+
+#Connection{
+	/*max-width:960px;*/
+	margin: 0 auto;
+	/*position:relative;*/
+	width: 500px;
+	height: 100px;
+	background-color: LightGrey;
+	border-radius: 3px;
+	border-color: thin solin black;
+
+
+}
+
+body{
+	margin: auto auto;
+}
+section{
+	position: relative;
+
+}
+
+body {
+	background-color: MintCream;
+	padding: 50px;
+	position: relative;
+}
+
+h1{
+	text-align: center;
+	color: DarkRed;
+}
+
+#image{
+	width: 120px;
+	height: 60px;
+}
+
+#logoUcp{
+	width: 120px;
+	height: 60px;
+}
+
+p{
+	text-align: justify;
+}
+
+/*#nomPage*/
+
+table{
+	margin: 0 auto;
+	border-collapse: collapse;
+
+}
+
+td{
+	border-collapse: collapse;
+	border: thin solid black;
+	width: 60px;
+	height: 60px;
+	text-align: center; 
+}
+
+#tailleidf{
+width:1474px;
+height:1175px;
+
+}
